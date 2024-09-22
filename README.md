@@ -70,10 +70,11 @@
 超分程序 Real_ESRGAN: https://github.com/xinntao/Real-ESRGAN
 
 # 待办列表
+- [ ] 修复目前已知的bug
 - [ ] 批量超分的支持
 - [ ] 异步超分支持（以充分利用显卡）
 - [ ] 优化代码逻辑以及函数命名
 - [ ] 接入gradio
-- [ ] 接入DRBA（超帧）（https://github.com/routineLife1/DRBA）
+- [ ] 接入DRBA（超帧）https://github.com/routineLife1/DRBA
 - [ ] 对macOS的支持（前提是能用上mac虚拟机）
 - [x] 支持更新ncnn模型(几乎能找到的可以用的模型在上面已经列出来了)
